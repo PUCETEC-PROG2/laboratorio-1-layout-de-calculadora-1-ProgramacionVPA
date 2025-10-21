@@ -5,8 +5,8 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
+- **Nombre completo**: Victor Paul Alvarez
+- **Carrera**: Desarrollo de software 
 - **Fecha de entrega**: _____________________________
 
 ---
